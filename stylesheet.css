@@ -1,0 +1,155 @@
+body {
+    font-family:"avenir next";
+}
+
+li {
+    list-style:none;
+}
+
+
+.main {
+    padding: 100px 80px;
+  }
+  
+  .copy-container h1 {
+    font-size: 50px;
+  }
+  
+  .copy-container h2 {
+    font-size: 30px;
+    margin-top:-20px;
+  }
+
+  .contents {
+    height: 500px;
+    margin-top: -50px;
+  }
+  
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    float:inherit;
+    text-align: center;
+  }
+  
+  .contents-item1{
+    float: left;
+    padding:10px;
+    margin-left:60px;
+    margin-right: 180px;
+  }
+
+  .contents-item2{
+    float: left;
+    padding:10px;
+    margin-right: 200px;
+  }
+
+  .contents-item3{
+    float: left;
+    padding:10px;
+  }
+
+  .contents-item4{
+    float: left;
+    padding:10px;
+    margin-left: 295px;
+  }
+
+  .contents-item5 {
+    float: left;
+    padding:10px;
+    
+  }
+.contents-item5 img{
+    margin-left:210px;
+}
+  
+  .contents-item1 h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+  }
+  
+  .contents-item2 h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+  }
+  .contents-item3 h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+  }
+  .contents-item4 h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+  }
+  .contents-item5 h2 {
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+  margin-left: 160px;
+  }
+  .contents-item1 img{
+    padding-left:25px;
+    
+  }
+
+  .contents-item5 p{
+    margin-left:150px;
+  }
+
+  .contents-item4 p{
+    margin-left:10px;
+  }
+
+  
+  
+  img {
+    width:205px;
+    height:200 px;
+    
+  }
+
+.podomoro img {
+    margin-left:500px;
+    
+}
+
+.copy-container{
+    margin-top:-50px;
+}
+
+.footer{
+ margin-top:650px;
+ background-color:beige ;
+ height:200px;
+ border: 3px solid grey;
+}
+.footer-logo{
+    font-size:15px;
+    margin-left:40px;
+    
+}
+.footer-list li{
+    float:left;
+    padding:35px 40px;
+
+    font-size:20px;
+}
+
+    .footer-list img{
+        margin-top:-60px;
+        float:right;
+        width:150px;
+        height:145px;
+        padding:20px 20px;
+    }
